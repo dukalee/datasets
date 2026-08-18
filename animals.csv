@@ -1,0 +1,101 @@
+animal_name,body_length_cm,weight_kg,body_size_score,num_legs,has_fur,has_feathers,has_scales,lays_eggs,is_warm_blooded,lives_in_water,can_fly,lifespan_years,top_speed_kmh,habitat,diet_type,animal_class
+Lion,260,190.0,348.0,4,1,0,0,0,1,0,0,14.0,80.0,Grassland,Carnivore,Mammal
+Moose,250,400.0,465.0,4,1,0,0,0,1,0,0,15.0,56.0,Forest,Herbivore,Mammal
+Gray Wolf,150,40.0,159.0,4,1,0,0,0,1,0,0,8.0,50.0,Forest,Carnivore,Mammal
+Red Fox,100,5.5,93.3,4,1,0,0,0,1,0,0,4.0,50.0,Forest,Omnivore,Mammal
+Domestic Cat,46,4.5,44.1,4,1,0,0,0,1,0,0,15.0,48.0,Grassland,Carnivore,Mammal
+Labrador Retriever,60,30.0,72.0,4,1,0,0,0,1,0,0,12.0,30.0,Grassland,Omnivore,Mammal
+Human,170,70.0,195.0,2,0,0,0,0,1,0,0,72.0,28.0,Grassland,Omnivore,Mammal
+Bottlenose Dolphin,250,250.0,375.0,0,0,0,0,0,1,1,0,40.0,30.0,Ocean,Carnivore,Mammal
+House Mouse,9,0.02,8.11,4,1,0,0,0,1,0,0,1.5,13.0,Grassland,Omnivore,Mammal
+Brown Rat,25,0.35,22.71,4,1,0,0,0,1,0,0,2.0,8.0,Wetland,Omnivore,Mammal
+Giant Panda,150,100.0,195.0,4,1,0,0,0,1,0,0,20.0,32.0,Forest,Herbivore,Mammal
+American Bison,300,700.0,690.0,4,1,0,0,0,1,0,0,20.0,57.0,Grassland,Herbivore,Mammal
+Red Kangaroo,160,55.0,177.0,4,1,0,0,0,1,0,0,9.0,70.0,Grassland,Herbivore,Mammal
+Cheetah,200,50.0,210.0,4,1,0,0,0,1,0,0,10.0,120.0,Grassland,Carnivore,Mammal
+Grizzly Bear,200,250.0,330.0,4,1,0,0,0,1,0,0,25.0,56.0,Forest,Omnivore,Mammal
+Dromedary Camel,230,600.0,567.0,4,1,0,0,0,1,0,0,40.0,65.0,Desert,Herbivore,Mammal
+Giraffe,470,1000.0,1023.0,4,1,0,0,0,1,0,0,25.0,60.0,Grassland,Herbivore,Mammal
+Common Chimpanzee,80,50.0,102.0,4,1,0,0,0,1,0,0,40.0,40.0,Forest,Omnivore,Mammal
+Little Brown Bat,9,0.01,8.11,2,1,0,0,0,1,0,1,10.0,40.0,Forest,Carnivore,Mammal
+Domestic Horse,240,500.0,516.0,4,1,0,0,0,1,0,0,25.0,70.0,Grassland,Herbivore,Mammal
+Bald Eagle,80,5.0,75.0,2,0,1,0,1,1,0,1,20.0,70.0,Forest,Carnivore,Bird
+Andean Condor,120,12.0,115.2,2,0,1,0,1,1,0,1,50.0,65.0,Mountain,Carnivore,Bird
+Emperor Penguin,115,30.0,121.5,2,0,1,0,1,1,1,0,20.0,9.0,Arctic,Carnivore,Bird
+House Sparrow,16,0.03,14.42,2,0,1,0,1,1,0,1,3.0,38.0,Grassland,Omnivore,Bird
+Peregrine Falcon,45,1.0,41.1,2,0,1,0,1,1,0,1,15.0,320.0,Mountain,Carnivore,Bird
+Mallard Duck,58,1.2,52.92,2,0,1,0,1,1,1,1,5.0,65.0,Wetland,Omnivore,Bird
+Wild Turkey,110,8.0,103.8,2,0,1,0,1,1,0,1,3.0,40.0,Forest,Omnivore,Bird
+Rock Pigeon,33,0.35,29.91,2,0,1,0,1,1,0,1,6.0,100.0,Mountain,Herbivore,Bird
+Barn Owl,35,0.5,31.8,2,0,1,0,1,1,0,1,4.0,40.0,Grassland,Carnivore,Bird
+American Robin,25,0.08,22.55,2,0,1,0,1,1,0,1,2.0,35.0,Forest,Omnivore,Bird
+Ruby-throated Hummingbird,9,0.003,8.1,2,0,1,0,1,1,0,1,3.0,54.0,Forest,Herbivore,Bird
+Canada Goose,90,5.0,84.0,2,0,1,0,1,1,1,1,10.0,65.0,Wetland,Herbivore,Bird
+Great Blue Heron,120,2.5,109.5,2,0,1,0,1,1,1,1,15.0,45.0,Wetland,Carnivore,Bird
+Common Raven,63,1.2,57.42,2,0,1,0,1,1,0,1,13.0,70.0,Forest,Omnivore,Bird
+Atlantic Puffin,30,0.5,27.3,2,0,1,0,1,1,1,1,20.0,80.0,Ocean,Carnivore,Bird
+Greater Flamingo,130,3.0,118.8,2,0,1,0,1,1,1,1,30.0,60.0,Wetland,Omnivore,Bird
+Toco Toucan,60,0.5,54.3,2,0,1,0,1,1,0,1,20.0,20.0,Forest,Omnivore,Bird
+Golden Eagle,80,5.0,75.0,2,0,1,0,1,1,0,1,20.0,190.0,Mountain,Carnivore,Bird
+Emu,150,40.0,159.0,2,0,1,0,1,1,0,0,10.0,50.0,Grassland,Omnivore,Bird
+Brown Kiwi,45,2.5,42.0,2,0,1,0,1,1,0,0,25.0,20.0,Forest,Omnivore,Bird
+Green Sea Turtle,100,150.0,180.0,4,0,0,1,1,0,1,0,70.0,2.5,Ocean,Herbivore,Reptile
+American Alligator,300,180.0,378.0,4,0,0,1,1,0,1,0,40.0,25.0,Wetland,Carnivore,Reptile
+Komodo Dragon,250,70.0,267.0,4,0,0,1,1,0,0,0,30.0,20.0,Forest,Carnivore,Reptile
+Ball Python,120,1.5,108.9,0,0,0,1,1,0,0,0,25.0,3.0,Forest,Carnivore,Reptile
+King Cobra,370,6.0,336.6,0,0,0,1,1,0,0,0,20.0,16.0,Forest,Carnivore,Reptile
+Green Iguana,150,5.0,138.0,4,0,0,1,1,0,0,0,15.0,34.0,Forest,Herbivore,Reptile
+Nile Crocodile,350,200.0,435.0,4,0,0,1,1,0,1,0,45.0,30.0,Wetland,Carnivore,Reptile
+Galapagos Tortoise,130,200.0,237.0,4,0,0,1,1,0,0,0,100.0,0.3,Grassland,Herbivore,Reptile
+Leatherback Sea Turtle,150,300.0,315.0,4,0,0,0,1,0,1,0,45.0,35.0,Ocean,Carnivore,Reptile
+Bearded Dragon,45,0.45,40.77,4,0,0,1,1,0,0,0,10.0,14.0,Desert,Omnivore,Reptile
+Gila Monster,50,1.0,45.6,4,0,0,1,1,0,0,0,20.0,1.6,Desert,Carnivore,Reptile
+Veiled Chameleon,45,0.15,40.59,4,0,0,1,1,0,0,0,6.0,3.0,Mountain,Carnivore,Reptile
+Western Diamondback Rattlesnake,150,3.0,136.8,0,0,0,1,0,0,0,0,20.0,6.0,Desert,Carnivore,Reptile
+Common Garter Snake,60,0.15,54.09,0,0,0,1,0,0,0,0,6.0,6.0,Wetland,Carnivore,Reptile
+Eastern Box Turtle,15,0.5,13.8,4,0,0,1,1,0,0,0,50.0,0.3,Forest,Omnivore,Reptile
+Nile Monitor,180,15.0,171.0,4,0,0,1,1,0,1,0,12.0,30.0,Wetland,Carnivore,Reptile
+Green Anaconda,400,40.0,384.0,0,0,0,1,0,0,1,0,15.0,10.0,Wetland,Carnivore,Reptile
+Leopard Gecko,20,0.06,18.04,4,0,0,1,1,0,0,0,18.0,4.0,Desert,Carnivore,Reptile
+Common Snapping Turtle,50,16.0,54.6,4,0,0,1,1,0,1,0,35.0,1.0,Wetland,Omnivore,Reptile
+Blue-tongued Skink,45,0.5,40.8,4,0,0,1,0,0,0,0,18.0,8.0,Grassland,Omnivore,Reptile
+Great White Shark,350,400.0,555.0,0,0,0,1,0,0,1,0,45.0,25.0,Ocean,Carnivore,Fish
+Clownfish,11,0.02,9.91,0,0,0,1,1,0,1,0,8.0,1.0,Ocean,Omnivore,Fish
+Goldfish,15,0.3,13.68,0,0,0,1,1,0,1,0,10.0,10.0,Wetland,Omnivore,Fish
+Atlantic Salmon,75,4.5,70.2,0,0,0,1,1,0,1,0,6.0,32.0,Ocean,Carnivore,Fish
+Atlantic Bluefin Tuna,150,150.0,225.0,0,0,0,1,1,0,1,0,30.0,70.0,Ocean,Carnivore,Fish
+Ocean Sunfish,150,300.0,315.0,0,0,0,1,1,0,1,0,10.0,3.0,Ocean,Carnivore,Fish
+Common Carp,60,15.0,63.0,0,0,0,1,1,0,1,0,20.0,16.0,Wetland,Omnivore,Fish
+Rainbow Trout,50,2.5,46.5,0,0,0,1,1,0,1,0,7.0,8.0,Wetland,Carnivore,Fish
+Guppy,5,0.001,4.5,0,0,0,1,0,0,1,0,2.0,2.0,Wetland,Omnivore,Fish
+Freshwater Angelfish,15,0.25,13.65,0,0,0,1,1,0,1,0,10.0,3.0,Wetland,Omnivore,Fish
+Swordfish,250,100.0,285.0,0,0,0,0,1,0,1,0,9.0,90.0,Ocean,Carnivore,Fish
+Giant Manta Ray,350,400.0,555.0,0,0,0,0,0,0,1,0,40.0,24.0,Ocean,Carnivore,Fish
+Lined Seahorse,15,0.01,13.51,0,0,0,0,1,0,1,0,4.0,0.02,Ocean,Carnivore,Fish
+Red-bellied Piranha,25,1.0,23.1,0,0,0,1,1,0,1,0,10.0,24.0,Wetland,Carnivore,Fish
+Betta Fish,6,0.003,5.4,0,0,0,1,1,0,1,0,3.0,3.0,Wetland,Carnivore,Fish
+Channel Catfish,60,5.0,57.0,0,0,0,0,1,0,1,0,15.0,8.0,Wetland,Omnivore,Fish
+European Eel,100,4.0,92.4,0,0,0,0,1,0,1,0,20.0,3.0,Ocean,Carnivore,Fish
+Clown Triggerfish,35,2.0,32.7,0,0,0,1,1,0,1,0,15.0,10.0,Ocean,Omnivore,Fish
+Red Lionfish,38,1.2,34.92,0,0,0,1,1,0,1,0,15.0,3.0,Ocean,Carnivore,Fish
+Koi,60,10.0,60.0,0,0,0,1,1,0,1,0,40.0,10.0,Wetland,Omnivore,Fish
+American Bullfrog,20,0.5,18.3,4,0,0,0,1,0,1,0,8.0,5.0,Wetland,Carnivore,Amphibian
+Axolotl,23,0.15,20.79,4,0,0,0,1,0,1,0,15.0,1.0,Wetland,Carnivore,Amphibian
+Fire Salamander,20,0.04,18.02,4,0,0,0,0,0,0,0,20.0,1.0,Forest,Carnivore,Amphibian
+Golden Poison Dart Frog,5,0.002,4.5,4,0,0,0,1,0,0,0,10.0,2.0,Forest,Carnivore,Amphibian
+European Common Toad,13,0.08,11.75,4,0,0,0,1,0,0,0,10.0,1.0,Forest,Carnivore,Amphibian
+Tiger Salamander,25,0.2,22.62,4,0,0,0,1,0,0,0,16.0,2.0,Grassland,Carnivore,Amphibian
+Red-eyed Tree Frog,6,0.006,5.4,4,0,0,0,1,0,0,0,5.0,3.0,Forest,Carnivore,Amphibian
+Cane Toad,15,0.9,14.04,4,0,0,0,1,0,0,0,10.0,1.5,Grassland,Omnivore,Amphibian
+Hellbender,45,1.2,41.22,4,0,0,0,1,0,1,0,25.0,1.0,Wetland,Carnivore,Amphibian
+Eastern Newt,11,0.003,9.9,4,0,0,0,1,0,1,0,12.0,1.0,Wetland,Carnivore,Amphibian
+Spring Peeper,3,0.003,2.7,4,0,0,0,1,0,0,0,3.0,2.0,Wetland,Carnivore,Amphibian
+Wood Frog,6,0.007,5.4,4,0,0,0,1,0,0,0,3.0,3.0,Forest,Carnivore,Amphibian
+African Clawed Frog,10,0.2,9.12,4,0,0,0,1,0,1,0,15.0,2.0,Wetland,Carnivore,Amphibian
+Mudpuppy,33,0.17,29.8,4,0,0,0,1,0,1,0,20.0,1.0,Wetland,Carnivore,Amphibian
+American Toad,9,0.06,8.14,4,0,0,0,1,0,0,0,10.0,1.5,Forest,Carnivore,Amphibian
+Green Frog,9,0.06,8.14,4,0,0,0,1,0,1,0,6.0,4.0,Wetland,Carnivore,Amphibian
+Northern Leopard Frog,9,0.06,8.14,4,0,0,0,1,0,1,0,9.0,4.0,Wetland,Carnivore,Amphibian
+Oriental Fire-bellied Toad,5,0.01,4.51,4,0,0,0,1,0,1,0,15.0,1.0,Wetland,Carnivore,Amphibian
+Marbled Salamander,11,0.01,9.91,4,0,0,0,1,0,0,0,10.0,1.0,Forest,Carnivore,Amphibian
+Chinese Giant Salamander,90,15.0,90.0,4,0,0,0,1,0,1,0,50.0,1.0,Wetland,Carnivore,Amphibian
